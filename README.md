@@ -9,5 +9,3 @@
 
 [“省份、城市、区县、乡镇、村庄” 五级联动数据](https://github.com/XZIO/multi-level-address/blob/master/five-level-address.json)
 
-## QQ群
-[点击加入前端互助QQ群（145676463）](https://jq.qq.com/?_wv=1027&k=JkRnFyUe)
